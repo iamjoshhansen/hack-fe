@@ -9,6 +9,22 @@
         <condition-checkbox id="salt_lamp" label="Salt Lamp" />
       </li>
     </ul>
+
+    <h2>Blue Box</h2>
+    <ul class="channel-list">
+      <li class="channel-list__item">
+        <condition-checkbox id="bluebox_0" label="Basil" />
+      </li>
+      <li class="channel-list__item">
+        <condition-checkbox id="bluebox_1" label="Bamboo" />
+      </li>
+      <li class="channel-list__item">
+        <condition-checkbox id="bluebox_2" label="3" />
+      </li>
+      <li class="channel-list__item">
+        <condition-checkbox id="bluebox_3" label="4" />
+      </li>
+    </ul>
   </div>
 </template>
 
