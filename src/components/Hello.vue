@@ -3,10 +3,16 @@
     <h2>Lights</h2>
     <ul class="channel-list">
       <li class="channel-list__item">
-        <condition-checkbox id="desk_lamp" label="Desk Lamp" />
+        <condition-checkbox id="extension_chord_alpha_0" label="Desk Lamp?" />
       </li>
       <li class="channel-list__item">
-        <condition-checkbox id="salt_lamp" label="Salt Lamp" />
+        <condition-checkbox id="extension_chord_alpha_1" label="Salt Lamp" />
+      </li>
+      <li class="channel-list__item">
+        <condition-checkbox id="extension_chord_alpha_2" label="Christmas Tree" />
+      </li>
+      <li class="channel-list__item">
+        <condition-checkbox id="extension_chord_alpha_3" label="Piano Lights" />
       </li>
     </ul>
 
