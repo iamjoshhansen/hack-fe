@@ -19,10 +19,10 @@
     <h2>Blue Box</h2>
     <ul class="channel-list">
       <li class="channel-list__item">
-        <condition-checkbox id="bluebox_0" label="Basil" />
+        <condition-checkbox id="bluebox_0" label="1" />
       </li>
       <li class="channel-list__item">
-        <condition-checkbox id="bluebox_1" label="Bamboo" />
+        <condition-checkbox id="bluebox_1" label="2" />
       </li>
       <li class="channel-list__item">
         <condition-checkbox id="bluebox_2" label="3" />
