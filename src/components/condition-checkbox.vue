@@ -31,7 +31,7 @@ export default {
   },
   methods: {
     requestChange(newVal) {
-      console.log(`${this.id}: `, newVal);
+      // console.log(`${this.id}: `, newVal);
       socket.emit(`set-condition-${this.id}`, newVal, (success) => {
         if (success) {
           this.val = newVal;
